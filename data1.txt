@@ -1,0 +1,7 @@
+10
+20
+30
+40
+50
+Hello this is the end of the script. 
+This scipt is created using the vi command.It is the time to say good bye for the time being.
